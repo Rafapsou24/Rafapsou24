@@ -1,36 +1,29 @@
 # Olá! Eu sou Rafaela Pessanha Souza | Hello! I'm Rafaela Pessanha Souza | Bonjour! Je m'appele Rafaela Pessanha Souza
 
-## Sobre mim | About me
+## About me | Sur moi
 <div>
-
-    Bem-vindo(a) ao meu perfil do GitHub! Aqui estão algumas informações sobre mim:
-    
-   
-    
-        ❤️ Apaixonada por tecnologia e por organização, me encontrei atraída pela área de análise dados.
-        🔭 Atualmente estou trabalhando em projetos relacionados ao Python e SQL.
-        🌱 Estou sempre buscando aprender mais sobre Python, SQL e Power BI. Além de aprimorar minhas habilidades em analise de dados extensos .
-        👀 Estou interessada em colaborar em projetos e trabalhar em equipe para desenvolver soluções inovadoras.
-        🤔 Estou à procura de oportunidades dentro da área de análise de dados. 
 
     Welcome to my perfile on Github! Here are some informations about me:
 
-        ❤️ Apaixonada por tecnologia e por organização, me encontrei atraída pela área de análise dados.
-        🔭 Atualmente estou trabalhando em projetos relacionados ao Python e SQL.
-        🌱 Estou sempre buscando aprender mais sobre Python, SQL e Power BI. Além de aprimorar minhas habilidades em analise de dados extensos .
-        👀 Estou interessada em colaborar em projetos e trabalhar em equipe para desenvolver soluções inovadoras.
-        🤔 Estou à procura de oportunidades dentro da área de análise de dados. 
+        ❤️ Passionate about technology and organization, I found myself drawn to the field of web development.  
+        🔭 Currently working on projects related to web development using technologies such as HTML, CSS, JavaScript, Python, and SQL.  
+        🌱 Always looking to learn more about front-end and back-end development, as well as tools like React, Node.js, and databases. 
+        👀 Interested in collaborating on projects and working in teams to create innovative and user-friendly web applications.  
+        🤔 Looking for opportunities in web development to continue growing and contributing to impactful projects.
 
-     Bienvenue sur mon perfil Github! Vous y trouverez quelques informations sur moi:
 
-        ❤️ Apaixonada por tecnologia e por organização, me encontrei atraída pela área de análise dados.
-        🔭 Atualmente estou trabalhando em projetos relacionados ao Python e SQL.
-        🌱 Estou sempre buscando aprender mais sobre Python, SQL e Power BI. Além de aprimorar minhas habilidades em analise de dados extensos .
-        👀 Estou interessada em colaborar em projetos e trabalhar em equipe para desenvolver soluções inovadoras.
-        🤔 Estou à procura de oportunidades dentro da área de análise de dados. 
-    
 
-## Meus conhecimentos | My skils | Mes competences
+    Bienvenue sur mon perfil Github! Vous y trouverez quelques informations sur moi:
+
+        ❤️ Passionnée par la technologie et l'organisation, je me suis retrouvée attirée par le domaine du développement web.  
+        🔭 Actuellement, je travaille sur des projets liés au développement web en utilisant des technologies telles que HTML, CSS, JavaScript, Python et SQL.  
+        🌱 Toujours à la recherche de nouvelles connaissances sur le développement front-end et back-end, ainsi que des outils comme React, Node.js et les bases de données.  
+        👀 Intéressée par la collaboration sur des projets et le travail en équipe pour créer des applications web innovantes et conviviales.  
+        🤔 À la recherche d'opportunités dans le développement web pour continuer à progresser et contribuer à des projets significatifs.
+
+                
+
+## My skils | Mes competences
 
 
 <div style=display: "inline_block"><br/>
