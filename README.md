@@ -36,7 +36,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafapsou24&show_icons=true&theme=highcontrast)
 
-## Contato | Contact
+## Contact
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1691262900)
@@ -51,7 +51,7 @@
 [![Indeed](https://img.shields.io/badge/Indeed-003A9B.svg?style=for-the-badge&logo=Indeed&logoColor=white)](https://profile.indeed.com/)
 
 
-## Outros conhecimentos | Others skills
+## Others skills | Autres skills
 
 <div style=display: inline_block><br/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
