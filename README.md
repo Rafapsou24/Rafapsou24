@@ -1,20 +1,36 @@
-# Olá! Eu sou Rafaela Pessanha | Hello! I'm Rafaela Pessanha
+# Olá! Eu sou Rafaela Pessanha Souza | Hello! I'm Rafaela Pessanha Souza | Bonjour! Je m'appele Rafaela Pessanha Souza
 
 ## Sobre mim | About me
 <div>
+
     Bem-vindo(a) ao meu perfil do GitHub! Aqui estão algumas informações sobre mim:
-
     
-    ❤️ Apaixonada por tecnologia e por organização, me encontrei atraída pela área de análise dados.
-    🔭 Atualmente estou trabalhando em projetos relacionados ao Python e SQL.
-    🌱 Estou sempre buscando aprender mais sobre Python, SQL e Power BI. Além de aprimorar minhas habilidades em analise de dados extensos .
-    👀 Estou interessada em colaborar em projetos e trabalhar em equipe para desenvolver soluções inovadoras.
-    🤔 Estou à procura de oportunidades dentro da área de análise de dados. 
+   
+    
+        ❤️ Apaixonada por tecnologia e por organização, me encontrei atraída pela área de análise dados.
+        🔭 Atualmente estou trabalhando em projetos relacionados ao Python e SQL.
+        🌱 Estou sempre buscando aprender mais sobre Python, SQL e Power BI. Além de aprimorar minhas habilidades em analise de dados extensos .
+        👀 Estou interessada em colaborar em projetos e trabalhar em equipe para desenvolver soluções inovadoras.
+        🤔 Estou à procura de oportunidades dentro da área de análise de dados. 
+
+    Welcome to my perfile on Github! Here are some informations about me:
+
+        ❤️ Apaixonada por tecnologia e por organização, me encontrei atraída pela área de análise dados.
+        🔭 Atualmente estou trabalhando em projetos relacionados ao Python e SQL.
+        🌱 Estou sempre buscando aprender mais sobre Python, SQL e Power BI. Além de aprimorar minhas habilidades em analise de dados extensos .
+        👀 Estou interessada em colaborar em projetos e trabalhar em equipe para desenvolver soluções inovadoras.
+        🤔 Estou à procura de oportunidades dentro da área de análise de dados. 
+
+     Bienvenue sur mon perfil Github! Vous y trouverez quelques informations sur moi:
+
+        ❤️ Apaixonada por tecnologia e por organização, me encontrei atraída pela área de análise dados.
+        🔭 Atualmente estou trabalhando em projetos relacionados ao Python e SQL.
+        🌱 Estou sempre buscando aprender mais sobre Python, SQL e Power BI. Além de aprimorar minhas habilidades em analise de dados extensos .
+        👀 Estou interessada em colaborar em projetos e trabalhar em equipe para desenvolver soluções inovadoras.
+        🤔 Estou à procura de oportunidades dentro da área de análise de dados. 
     
 
-
-
-## Meus conhecimentos | My skils
+## Meus conhecimentos | My skils | Mes competences
 
 
 <div style=display: "inline_block"><br/>
@@ -23,6 +39,7 @@
     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="google sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
 </div>
+</br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafapsou24&show_icons=true&theme=highcontrast)
 
