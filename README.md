@@ -1,4 +1,4 @@
-# Olá! Eu sou Rafaela Pessanha Souza | Hello! I'm Rafaela Pessanha Souza | Bonjour! Je m'appele Rafaela Pessanha Souza
+# Hello! I'm Rafaela Pessanha Souza | Bonjour! Je m'appelle Rafaela Pessanha Souza
 
 ## About me | Sur moi
 <div>
