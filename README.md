@@ -5,7 +5,7 @@
 
     Welcome to my perfile on Github! Here are some informations about me:
 
-        ❤️ Passionate about technology and organization, I found myself drawn to the field of web development.  
+        ❤️ Passionate about technology and programation, I found myself drawn to the field of web development.  
         🔭 Currently working on projects related to web development using technologies such as HTML, CSS, JavaScript, Python, and SQL.  
         🌱 Always looking to learn more about front-end and back-end development, as well as tools like React, Node.js, and databases. 
         👀 Interested in collaborating on projects and working in teams to create innovative and user-friendly web applications.  
@@ -15,7 +15,7 @@
 
     Bienvenue sur mon perfil Github! Vous y trouverez quelques informations sur moi:
 
-        ❤️ Passionnée par la technologie et l'organisation, je me suis retrouvée attirée par le domaine du développement web.  
+        ❤️ Passionnée par la technologie et la programation, je me suis retrouvée attirée par le domaine du développement web.  
         🔭 Actuellement, je travaille sur des projets liés au développement web en utilisant des technologies telles que HTML, CSS, JavaScript, Python et SQL.  
         🌱 Toujours à la recherche de nouvelles connaissances sur le développement front-end et back-end, ainsi que des outils comme React, Node.js et les bases de données.  
         👀 Intéressée par la collaboration sur des projets et le travail en équipe pour créer des applications web innovantes et conviviales.  
@@ -43,7 +43,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+330745070406)
 [![Skype](https://img.shields.io/badge/Skype-00AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/eDIIaoXi6xS5)
 
-## Mais sobre o meu trabalho | More about my work
+## More about my work | Un savoir plus de mon travail
 
 [![Rafapsou24's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafapsou24&theme=blue-green)](https://github.com/Rafapsou24/github-readme-stats)
 
